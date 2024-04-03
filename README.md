@@ -23,5 +23,6 @@ The guide is crafted with the mindset of a programmer, focusing on practical exa
 
 So, what are you waiting for? Dive into the world of PySpark and unleash the full potential of your data analysis projects! 💻✨
 
-Keep sparking,
+Keep sparking, 
+
 Aniket
